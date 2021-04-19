@@ -1,0 +1,60 @@
+[
+    {
+    "id": 1,
+    "img": "img/times-square.jpg",
+    "h4": "Times Square ",
+    "price": 1000
+    },
+    {
+    "id": 2,
+    "img": "img/bridge.jpg",
+    "h4": "Brooklyn Bridge",
+    "price": 2000
+    },
+    {
+    "id": 3,
+    "img": "img/subway.jpeg",
+    "h4": "NYC Subway",
+    "price": 3000
+    },
+    {
+    "id": 4,
+    "img": "img/central-park.jpg",
+    "h4": "Central Park",
+    "price": 4000
+    },
+    {
+    "id": 5,
+    "img": "img/empire-state.jpg",
+    "h4": "Empire State",
+    "price": 4000
+    },
+
+    {
+    "id": 6,
+    "img": "img/madison.jpeg",
+    "h4": "Madison Square Garden",
+    "price": 4000
+    },
+    {
+    "id": 7,
+    "img": "img/central-park.jpg",
+    "h4": "Central Park",
+    "price": 4000
+    },
+    {
+    "id": 8,
+    "img": "img/empire-state.jpg",
+    "h4": "Empire State",
+    "price": 4000
+    },
+
+    {
+    "id": 9,
+    "img": "img/madison.jpeg",
+    "h4": "Madison Square Garden",
+    "price": 4000
+    }
+]
+    
+

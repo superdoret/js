@@ -1,0 +1,22 @@
+[
+    {
+    "id": 100,
+    "img": "img/wall-street.jpg",
+    "h4": "Walking Tour Wall Street",
+    "price": "GRATIS"
+    },
+    {
+    "id": 101,
+    "img": "img/east-harlem.jpg",
+    "h4": "Walking Tour East Harlem",
+    "price": "GRATIS"
+    },
+    {
+    "id": 102,
+    "img": "img/graffiti.jpg",
+    "h4": "Walking Tour Graffiti",
+    "price": "GRATIS"
+    }
+]
+
+
